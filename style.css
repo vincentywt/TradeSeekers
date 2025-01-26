@@ -1,0 +1,18 @@
+/* Global styles for the footer component */
+:root {
+  --footer-bg: #1a1a1a;
+  --footer-text: #ffffff;
+  --accent-color: #4d90fe;
+  --hover-color: #6ba6ff;
+  --transition-speed: 0.3s;
+  --max-width: 1200px;
+  --column-gap: 2rem;
+  --row-gap: 1.5rem;
+  --padding: 2rem;
+}
+
+/* Add these styles to your main stylesheet */
+body {
+  margin: 0;
+  padding-bottom: 300px; /* Adjust based on footer height */
+}
